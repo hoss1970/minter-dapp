@@ -1,9 +1,9 @@
 const contractAddress = "0x1c6a6d6212C583cB78F75Bff435be71f686E3d0F"; // Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to our pet rock NFT Project!! will your nft be the one we buy back for the cost of a new Tesla?";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'your pet rock nfts are more than a collection of rocks they are a unique collection of 10,000 nfts made from 2d and 3d art that represent your pet projects,hobbies or your profession. Your pet rock nft also doubles as your ticket for all our drawings such as our buy back program- where we offer to buy back your pet rock nft for enough money to buy you a new tesla and others prizes,please read your about us page and road map etc. for exciting events coming for your pet rock nft.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
