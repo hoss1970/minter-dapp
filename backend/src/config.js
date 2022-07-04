@@ -8,7 +8,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "yourpetrocknft.com";
-const description = "your pet rock nfts are more than a collection of rocks they are a unique collection of 10,000 nfts made from 2d and 3d art that represent your pet projects,hobbies or your profession. Your pet rock nft also doubles as your ticket for all our drawings such as our buy back program- where we offer to buy back your pet rock nft for enough money to buy you a new tesla and others prizes,please read your about us page and road map etc. for exciting events coming for your pet rock nft. ";
+const description = "your pet rock nfts are more than a collection of rocks they are a unique collection of 10,000 nfts made from 2d and 3d art that represent your pet projects,hobbies or your profession. Your pet rock nft also doubles as your ticket for all our drawings such as our buy back program- where we offer to buy back your pet rock nft for enough money to buy you a new tesla and others prizes,please read your about us page and road map etc."
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 const layerConfigurations = [
