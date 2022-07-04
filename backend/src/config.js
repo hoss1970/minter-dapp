@@ -7,7 +7,7 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "petrocknft.net";
+const namePrefix = "yourpetrocknft.com";
 const description = "your pet rock nfts are more than a collection of rocks they are a unique collection of 10,000 nfts made from 2d and 3d art that represent your pet projects,hobbies or your profession. Your pet rock nft also doubles as your ticket for all our drawings such as our buy back program- where we offer to buy back your pet rock nft for enough money to buy you a new tesla and others prizes,please read your about us page and road map etc. for exciting events coming for your pet rock nft. ";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
@@ -40,7 +40,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://petrocknft.net", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://yourpetrocknft.com", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
@@ -51,7 +51,7 @@ const LIMIT = 2; // Your API key rate limit
 const CHAIN = 'rinkeby'; // only rinkeby, polygon, or ethereum
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
-const CONTRACT_NAME = 'petrocknft.net';
+const CONTRACT_NAME = 'yourpetrocknft.com';
 const CONTRACT_SYMBOL = 'PR';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0x8539fD43FbD085086f2dc741f21a94291bF9F7fF';
@@ -64,7 +64,7 @@ const TOKENS_PER_MINT = 1000; // maximum number of NFTs a user can mint in a sin
 const PUBLIC_MINT_START_DATE = "2022-07-16T11:30:48+00:00"; // This is required. Eg: 2022-02-08T11:30:48+00:00
 
 // OPTIONAL CONTRACT DETAILS THAT CAN BE UPDATED LATER.
-const PRESALE_MINT_START_DATE = "2022-07-16T11:30:48+00:00"; // Optional. Eg: 2022-02-08T11:30:48+00:00
+const PRESALE_MINT_START_DATE = "2022-07-04T11:30:48+00:00"; // Optional. Eg: 2022-02-08T11:30:48+00:00
 const ROYALTY_SHARE = 1000; // Percentage of the token price that goes to the royalty address. 100 bps = 1%
 const ROYALTY_ADDRESS = "0x8539fD43FbD085086f2dc741f21a94291bF9F7fF"; // Address that will receive the royalty
 const BASE_URI = null; // only update if you want to manually set the base uri
